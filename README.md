@@ -1,5 +1,3 @@
-# AKSHARA AGARWAL
-![image](https://github.com/user-attachments/assets/ec04a5e6-7965-423d-8c00-ad2107f3b55f)
 
 # <samp>&gt; Hey, I'm Akshara 👋
 👩‍💻 Learning the ropes, writing the code, living the logic.
