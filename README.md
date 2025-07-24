@@ -6,7 +6,7 @@
 ### About Me
 - 🔭 I’m currently doing DSA in C++ and try to build some real time projects . Currently also dive in to Python building some stuff related to AI & ML.
 - Also trying crafting pixels in to purpose - that's the dev life.😄
-  
+  <!-- - 💡 Programming languages I know: Python<img height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> | JavaScript <img height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | HTML<img height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">. -->
 - 💡 Languages and Tools:
 <p align="left">
     
