@@ -10,7 +10,7 @@
 - 💡 Languages and Tools:
 <p align="left">
     <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40"/>
 
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   
 <!-- MySQL -->
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fblogs%2Ftop-sql-databases-to-learn%2F&psig=AOvVaw3bgZYvid_k7Yf56ofIFO6H&ust=1753448309756000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIim1I_G1Y4DFQAAAAAdAAAAABAE" alt="MySQL" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWrWGcnJWgIIN564SX__YHEXCsp_ds6Q6fA&s " alt="MySQL" width="40"/>
 </p>
 
 
