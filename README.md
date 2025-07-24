@@ -1,6 +1,7 @@
 
 # <samp>&gt; Hey, I'm Akshara 👋
 👩‍💻 Learning the ropes, writing the code, living the logic.
+
 🔥 “Turning coffee into code and dreams into deploys.”
 
 ### About Me
