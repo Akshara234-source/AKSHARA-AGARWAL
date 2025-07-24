@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   
 <!-- MySQL -->
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fblogs%2Ftop-sql-databases-to-learn%2F&psig=AOvVaw3bgZYvid_k7Yf56ofIFO6H&ust=1753448309756000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIim1I_G1Y4DFQAAAAAdAAAAABAE)" alt="MySQL" width="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fblogs%2Ftop-sql-databases-to-learn%2F&psig=AOvVaw3bgZYvid_k7Yf56ofIFO6H&ust=1753448309756000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIim1I_G1Y4DFQAAAAAdAAAAABAE" alt="MySQL" width="40"/>
 </p>
 
 
