@@ -9,7 +9,17 @@
   <!-- - 💡 Programming languages I know: Python<img height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> | JavaScript <img height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> | HTML<img height=20 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">. -->
 - 💡 Languages and Tools:
 <p align="left">
-    
+    <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40"/>
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  
+<!-- MySQL -->
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fblogs%2Ftop-sql-databases-to-learn%2F&psig=AOvVaw3bgZYvid_k7Yf56ofIFO6H&ust=1753448309756000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIim1I_G1Y4DFQAAAAAdAAAAABAE)" alt="MySQL" width="40"/>
 </p>
 
 
